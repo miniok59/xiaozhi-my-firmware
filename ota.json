@@ -1,5 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/
-miniok59/xiaozhi-my-firmware/main/xiaozhi.bin"
+  "firmware": {
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/miniok59/xiaozhi-my-firmware/main/xiaozhi.bin"
+  }
 }
